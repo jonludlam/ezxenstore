@@ -8,6 +8,6 @@
               threads
               uuidm
               xenctrl
-              xenstore_transport.unix
+              xenstore_transport
               xenstore.unix))
  ))
